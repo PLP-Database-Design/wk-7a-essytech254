@@ -1,5 +1,3 @@
-Week 7 Assignment Guide
-
  --  Question 1
 CREATE TABLE ProductDetail (
     OrderID INT,
